@@ -47,6 +47,7 @@ public class HomeController {
         String password = "starbucks";
 
 //        좋은 깃 테스트다
+        // 그래
        
         try {
 			con = DriverManager.getConnection(url, user, password);
