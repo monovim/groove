@@ -46,6 +46,7 @@ public class HomeController {
         String user = "groove_admin";
         String password = "starbucks";
 
+//        좋은 깃 테스트다
        
         try {
 			con = DriverManager.getConnection(url, user, password);
